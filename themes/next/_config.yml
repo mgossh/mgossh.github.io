@@ -197,8 +197,8 @@ site_state: true
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/mgossh || github
-  E-Mail: mailto:mgossh@outlook.com || envelope
+  #GitHub: https://github.com/mgossh || github
+  #E-Mail: mailto:mgossh@outlook.com || envelope
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -220,7 +220,7 @@ links_title: Links
 links_layout: block
 #links_layout: inline
 links:
-  Title: https://mgossh.github.io/
+  #Title: https://mgossh.github.io/
 
 # Sidebar Avatar
 avatar:
@@ -229,7 +229,7 @@ avatar:
   # You can also use other linking images.
   url: /images/hello.gif
   # If true, the avatar would be dispalyed in circle.
-  rounded: false
+  rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
   opacity: 1
   # If true, the avatar would be rotated with the cursor.
@@ -824,7 +824,7 @@ firestore:
 # Show Views / Visitors of the website / page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi
 busuanzi_count:
-  enable: false
+  enable: true
   total_visitors: true
   total_visitors_icon: user
   total_views: true
