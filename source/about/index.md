@@ -8,5 +8,7 @@ date: 2019-04-03 13:17:37
 
 自此朝耕暮耘，乐此不彼，历经数年，竟一事无成。
 
+知耻而后勇，奋起而直追！
 
-<div align=center>![](../_posts/images/fight-baby.jpg)
+
+
